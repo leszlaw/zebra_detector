@@ -1,7 +1,7 @@
 # zebra_detector
 Road lane detection application using YOLOv3 and OpenCV.
 
-
+I won't put dataset in fear of copyright.
 nice-work.wav [LINK](https://www.pacdv.com/sounds/voices-3.html)
 
 How to run app [Widnows 10] ?
